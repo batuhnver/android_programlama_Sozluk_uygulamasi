@@ -1,2 +1,3 @@
 # android_programlama_Sozluk_uygulamasi
 Mobil_programlamaya_giris_Final_proje
+Rar dosyasına tıklayıp View Raw diyerek proje indirilebilir
